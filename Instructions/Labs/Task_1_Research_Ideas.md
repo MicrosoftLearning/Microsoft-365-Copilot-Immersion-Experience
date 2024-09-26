@@ -37,7 +37,7 @@ Single-shot prompting is a technique where a single, well-crafted prompt is used
 For example:
 
 ```text
-Can you provide an overview of recent trends in corporate Giving Campaigns that have successfully engaged communities and driven positive change?
+Can you help brainstorm ideas for a new internal Giving Campaign that aligns with Microsoft's corporate social responsibility goals? Additionally, suggest local charities or communities that could be potential partners based on the campaign initiatives, focusing on [specific city/region]
 ```
 
 In this method, you rely on the AI's ability to provide a detailed and holistic response based on the single prompt. This approach is more efficient when you're seeking a broad summary or a quick solution, but it may not allow for the same depth of exploration as Chain of Thought (CoT) prompting.
@@ -49,18 +49,18 @@ Role prompting, or persona-based prompting, involves asking the AI to take on a 
 Here’s an example of how you could apply role prompting:
 
 ```text
-You are an employee at a Fortune 500 company, and you've been tasked with creating a grassroots Giving Campaign focused on environmental sustainability. How would you engage your colleagues and ensure the campaign aligns with the company's sustainability goals?
+You are an employee at Microsoft, and you've been tasked with creating a grassroots Giving Campaign focused on [environmental sustainability]. First, brainstorm and propose a specific campaign idea that aligns with your company's sustainability and social responsibility goals. Then, outline how you would engage your colleagues and suggest local charities or communities in [specific city/region] that could be potential partners to implement the campaign.
 ```
 
-In this prompt, the AI assumes the role of a corporate employee tasked with running a sustainability-focused campaign, with the goal of rallying internal support and aligning with corporate values.
+In this prompt, the AI assumes the role of an employee within your organization, tasked with running a sustainability-focused campaign, with the goal of rallying internal support and aligning the campaign with your organization’s specific values and priorities.
 
 Or, you can refine the focus further:
 
 ```text
-You are an employee at a large organization who is passionate about improving educational opportunities for underserved communities. You want to lead a new Giving Campaign centered around increasing access to technology in local schools. What steps would you take to mobilize your colleagues, build community partnerships, and ensure that the campaign has a lasting impact?
+You are an employee at Microsoft who is passionate about improving educational opportunities for underserved communities. First, brainstorm and propose a specific Giving Campaign idea centered around [increasing access to technology in local schools]. Then, outline the steps you would take to mobilize your colleagues, build community partnerships, and suggest local organizations or schools in [specific city/region] that could be potential partners to implement the campaign.
 ```
 
-Using role prompting in this way allows you to think critically about your role within the organization and develop a campaign that aligns with both internal goals and external impact. It adds a personal and professional perspective, helping you tailor the campaign for maximum effectiveness.
+Using role prompting in this way allows you to think critically about your role within your organization and develop a campaign that aligns with internal goals while making a meaningful external impact. It adds a personal and professional perspective, helping you tailor the campaign for maximum effectiveness.
 
 ## Chain of Thought Prompting
 
@@ -71,19 +71,20 @@ For example
 - **Prompt 1:**
 
     ```text
-    Can you help identify common challenges faced by corporate Giving Campaigns in engaging communities or driving long-term impact?
+    Can you identify common challenges that employee-led Giving Campaigns might face when trying to engage colleagues and have a long-term impact on local communities?
     ```
 
 - **Prompt 2:**
 
     ```text
-    Based on those challenges, can you suggest innovative campaign elements that could help overcome these obstacles?
+    Based on those challenges, can you suggest creative elements or strategies that would help overcome these obstacles and make the campaign more effective?
+
     ```
 
 - **Prompt 3:**
 
     ```text
-    Now, considering those elements, which single campaign idea would likely have the most significant impact and be feasible for my team to execute? Please prioritize based on potential for community engagement and scalability.
+    Now, considering those strategies, can you propose a specific Giving Campaign idea that would have the most significant impact and align with Microsoft's corporate social responsibility goals? Please also suggest local charities or communities in [specific city/region] that we could partner with to implement the campaign and ensure it has a lasting local impact.
     ```
 
 By using a CoT prompt, you encourage deeper engagement with the subject matter, leading to more thoughtful and well-rounded answers. This approach fosters a logical progression of ideas, making it easier to explore complex scenarios and arrive at actionable insights.
