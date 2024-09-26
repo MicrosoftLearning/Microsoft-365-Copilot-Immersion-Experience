@@ -4,11 +4,11 @@ permalink: index.html
 layout: home
 ---
 
-## Growing your AI skills - Microsoft 365 Copilot Immersion Experience
+## Growing your AI skills
 
 In this interactive experience, you'll get inspired and design a new Microsoft Giving Campaign using Microsoft 365 Copilot to streamline tasks such as research, proposal drafting, presentation creation, and more
 
-- You will have 25 minutes to complete the objective.
+- You will have about 30 minutes to complete the objective.
 - In your browser, enter “Word.new” and then save a new document as “Copilot Research” to your OneDrive account.
 - Try different Copilots, experiment with prompts to see what works best, and enjoy the creative process!
 
