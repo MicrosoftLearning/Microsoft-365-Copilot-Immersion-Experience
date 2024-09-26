@@ -28,7 +28,7 @@ Using the Word document created in Task 2, leverage **Copilot in PowerPoint** to
 
 ### [Task 4: Collaborate Using Pages](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/Task_4_Collaborate_Using_Pages.html)
 
-Experience the new **BizChat Pages** functionality, which allows you to collaborate and organize ideas in a dynamic, shareable space.
+Experience the new **Pages** functionality, which allows you to collaborate and organize ideas in a dynamic, shareable space.
 
 ### Optional Tasks
 
