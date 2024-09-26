@@ -16,7 +16,7 @@ This optional task demonstrates how to use Microsoft 365 Copilot to quickly gene
 
 - **Create a Logo**:
 
-    1. Navigate to Business chat within the Microsoft 365 App by typing in the following URL in your Edge browser: <ahref="https://Microsoft.com/Copilot" target="_blank">Microsoft.com/Copilot</a>.
+    1. Navigate to Business chat within the Microsoft 365 App by typing in the following URL in your Edge browser: <a href="https://Microsoft.com/Copilot" target="_blank">Microsoft.com/Copilot</a>.
     1. In **Business Chat**, copy and paste the sample prompt into the prompt field:
 
         **Sample Prompt**
