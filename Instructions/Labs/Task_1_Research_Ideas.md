@@ -5,7 +5,7 @@ task:
 
 # Task 1: Research Campaign Ideas
 
-Using Business Chat in the Microsoft 365 App to research Giving Campaign ideas and philanthropic initiatives that align with corporate social responsibility goals. Focus on identifying successful strategies and emerging trends, aiming to brainstorm and develop at least one new Giving Campaign idea based on your findings. The goal of this task is to generate an idea to build on in the next steps.
+Using Business Chat (BizChat) in the Microsoft 365 App, research Giving Campaign ideas and philanthropic initiatives that align with corporate social responsibility goals. Focus on identifying successful strategies and emerging trends, aiming to brainstorm and develop at least one new Giving Campaign idea based on your findings. The goal of this task is to generate an idea to build on in the next steps.
 <BR>
 <BR>
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4;">

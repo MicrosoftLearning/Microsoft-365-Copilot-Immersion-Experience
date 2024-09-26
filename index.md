@@ -16,7 +16,7 @@ You will perform four tasks:
 
 ### [Task 1: Research Campaign Ideas](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/Task_1_Research_Ideas.html)
 
-Using **Business Chat** in the Microsoft 365 App to research Giving Campaign ideas and philanthropic initiatives that align with corporate social responsibility goals. Focus on identifying successful strategies and emerging trends, aiming to brainstorm and develop at least one new Giving Campaign idea based on your findings. The goal of this task is to generate an idea to build on in the next steps.
+Using **Business Chat** (BizChat) in the Microsoft 365 App, research Giving Campaign ideas and philanthropic initiatives that align with corporate social responsibility goals. Focus on identifying successful strategies and emerging trends, aiming to brainstorm and develop at least one new Giving Campaign idea based on your findings. The goal of this task is to generate an idea to build on in the next steps.
 
 ### [Task 2: Draft a Campaign Proposal](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/Task_2_Draft_a_Program_Proposal.html)
 
