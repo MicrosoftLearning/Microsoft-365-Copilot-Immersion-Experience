@@ -8,14 +8,14 @@
 
 1. Type or use your voice to input the following prompt:
 
-        ```text
-       can you find me any emails from earlier today from my colleague [colleagues name] and list up any action items
-        ```
+   ```text
+   can you find me any emails from earlier today from my colleague [colleagues name] and list up any action items
+   ```
 1. Another example you could use:
 
-        ```text
-       summarize the info you have on <Customer XYZ> in my calendar for this week
-        ```
+   ```text
+   summarize the info you have on <Customer XYZ> in my calendar for this week
+   ```
 
 ## BizChat in Microsoft 365 App Demo Steps
 
@@ -27,9 +27,9 @@
 
 1. Type in the following prompt:
 
-        ```text
-        What are the key steps we should take to launch a successful Giving Campaign within our company?
-        ```
+    ```text
+    What are the key steps we should take to launch a successful Giving Campaign within our company?
+    ```
 
 1. Next, export the response to **Pages** by select **Edit in Pages**:
 
