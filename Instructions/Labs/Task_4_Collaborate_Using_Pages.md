@@ -5,7 +5,7 @@ task:
 
 # Task 4: Collaborate with Pages
 
-In this task, you’ll explore the new **Pages** functionality, a dynamic, shareable space for collaboration and idea organization.
+In this task, you’ll explore the new **BizChat Pages** functionality, a dynamic, shareable space for collaboration and idea organization.
 
 At the moment, Pages is only available when using the **Work tab** scope in Business Chat; however, this functionality will be coming to the **Web tab** scope in the future.
 <BR>
