@@ -6,17 +6,17 @@ layout: home
 
 ## Growing your AI skills
 
-In this interactive experience, you'll get inspired and design a new Microsoft Giving Campaign using Microsoft 365 Copilot to streamline tasks such as research, proposal drafting, presentation creation, and more
+In this interactive experience, you'll get inspired and design a new Microsoft Giving Campaign using Microsoft 365 Copilot to streamline tasks such as research, proposal drafting, presentation creation, and more.
 
 - You will have about 30 minutes to complete the objective.
-- In your browser, enter “Word.new” and then save a new document as “Copilot Research” to your OneDrive account.
+- In your browser, enter (<a href="https://word.new" target="_blank">word.new</a>), then save a new document titled 'Copilot Research' to your OneDrive account.
 - Try different Copilots, experiment with prompts to see what works best, and enjoy the creative process!
 
 You will perform four tasks:
 
 ### [Task 1: Research Campaign Ideas](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/Task_1_Research_Ideas.html)
 
-Using **Business Chat** (BizChat) in the Microsoft 365 App, research Giving Campaign ideas and philanthropic initiatives that align with corporate social responsibility goals. Focus on identifying successful strategies and emerging trends, aiming to brainstorm and develop at least one new Giving Campaign idea based on your findings. The goal of this task is to generate an idea to build on in the next steps.
+Using **Business Chat** (BizChat) in the Microsoft 365 App, research Giving Campaign ideas and philanthropic initiatives that align with corporate social responsibility goals. Focus on identifying successful strategies and emerging trends while aiming to brainstorm and develop at least one new Giving Campaign idea based on your findings. The goal of this task is to generate an idea to build on in the next steps.
 
 ### [Task 2: Draft a Campaign Proposal](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/Task_2_Draft_a_Program_Proposal.html)
 
@@ -34,7 +34,7 @@ Experience the new **Pages** functionality, which allows you to collaborate and 
 
 - #### [Optional Task 1: Generate Marketing Ideas](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/Optional_Task_1_Create_an_image.html)
 
-    Use **Microsoft 365 Copilot** to quickly generate a range of creative outputs. It showcases the practical application of Copilot's features, emphasizing how you can extend your work in innovative ways.
+    Use **Microsoft 365 Copilot** to quickly generate a range of creative outputs. This task showcases the practical application of Copilot's features, emphasizing how you can extend your work in innovative ways..
 
 - #### [Optional Task 2: Summarize a large document](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/Optional_Task_2_Data_mine_large_document.html)
 

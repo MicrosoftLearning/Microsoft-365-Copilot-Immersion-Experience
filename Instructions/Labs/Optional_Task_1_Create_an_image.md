@@ -5,7 +5,7 @@ task:
 
 # Optional Task 1: Generate Marketing Ideas
 
-This optional task demonstrates how to use Microsoft 365 Copilot to quickly generate a range of creative outputs. It showcases the practical application of Copilot's features, emphasizing how you can extend your work in innovative ways.
+Use Microsoft 365 Copilot to quickly generate a range of creative outputs. This task showcases the practical application of Copilot's features, emphasizing how you can extend your work in innovative ways..
 <BR>
 <BR>
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4;">
@@ -16,7 +16,7 @@ This optional task demonstrates how to use Microsoft 365 Copilot to quickly gene
 
 - **Create a Logo**:
 
-    1. Navigate to Business chat within the Microsoft 365 App by typing in the following URL in your Edge browser: <a href="https://copilot.cloud.microsoft.com" target="_blank">copilot.cloud.microsoft.com</a>.
+    1. Navigate to Business Chat within the Microsoft 365 App by typing in the following URL in your Edge browser: <a href="https://copilot.cloud.microsoft.com" target="_blank">copilot.cloud.microsoft.com</a>.
     1. In **Business Chat**, copy and paste the sample prompt into the prompt field:
 
         **Sample Prompt**
@@ -29,7 +29,7 @@ This optional task demonstrates how to use Microsoft 365 Copilot to quickly gene
         <strong>Note:</strong> Replace the text within brackets with your specific choice
         </div>
         <BR>
-    1. Optionally, you can save one of the four image outputs by selecting the image of your choice and then selecting the **ellipses** (three dots) > **Download**.
+    1. Optionally, you can save one of the four image outputs by selecting the image of your choice, then selecting the **ellipses** (three dots) > **Download**.
 
 - **Generate a Marketing Slogan**:
 
@@ -38,7 +38,7 @@ This optional task demonstrates how to use Microsoft 365 Copilot to quickly gene
     **Sample Prompt**
 
     ```text
-    Generate a catchy marketing slogan for our new Giving Campaign [campaign name] that highlights its unique value proposition and appeals to [target audience/community].
+    Generate a catchy marketing slogan for our new Giving Campaign [campaign name] that highlights its unique value proposition and appeals to the [target audience/community].
     ```
     <BR>
     <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4;">

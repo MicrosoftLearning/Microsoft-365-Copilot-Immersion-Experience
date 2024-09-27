@@ -36,7 +36,7 @@ Using the Word document created in Task 2, leverage Copilot in PowerPoint to dev
     <BR>
     <BR>
     <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4;">
-    <strong>Note:</strong>It can take up to two minutes for the slides to fully generate. The time it takes to generate the slides depends on the complexity of the document and the number of slides that Copilot creates.
+    <strong>Note:</strong> It can take up to two minutes for the slides to fully generate. The time it takes to generate the slides depends on the complexity of the document and the number of slides that Copilot creates.
     </div>
     <BR>
 1. Once completed, you're free to review the slides and make any necessary updates. You can use the Designer tool to adjust the layouts. You can also add or remove slides and modify the content as needed to ensure the presentation aligns with your objectives. For more prompts to try out, see the next section below.
@@ -51,7 +51,7 @@ For example, you can ask Copilot to suggest alternative slide layouts or automat
  What’s the best order to present this information for maximum impact?
  ```
 
-You can also refine your presentation through iteration. For example, you might ask Copilot to focus on specific areas for improvement:
+You can also refine your presentation through iteration. For example, you could ask Copilot to focus on specific areas for improvement:
 
  ```text
  Give me specific examples from this presentation on how I can improve it for better engagement.

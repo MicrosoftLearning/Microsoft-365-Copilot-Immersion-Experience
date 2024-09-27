@@ -14,7 +14,7 @@ Based on your research using BizChat, use Copilot in Word to draft a comprehensi
 
 ### Steps:
 
-1. Open the copilot research document that you saved to your OneDrive account in Task 1. Copy the URL of the document by selecting the Share button in the upper-right corner, above the ribbon and selecting Copy Link from the drop-down menu that appears.
+1. Open the copilot research document that you saved to your OneDrive account in Task 1. Copy the URL of the document by selecting the Share button in the upper-right corner, above the ribbon and selecting **Copy Link** from the drop-down menu that appears.
 
     ![Screenshot showing the Share menu and the Copy Link option highlighted.](../Labs/Media/share-menu-with-copy-link.png)
 
@@ -34,7 +34,7 @@ Based on your research using BizChat, use Copilot in Word to draft a comprehensi
 
 1. Select **Generate**. At this point, Copilot in Word extracts the information from your research document and drafts the proposal.
 
-1. Review the draft that Copilot creates. If everything looks good, you can move onto the next step.
+1. Review the draft that Copilot creates. If everything looks good, you can move on to the next step.
 
     However, if you'd like to refine the document further, explore the information in the **Iterate and Revise** section below.
 
@@ -56,7 +56,7 @@ After reviewing the updated version, you may further improve the document by foc
 Improve the summary to make it more concise and impactful.
 ```
 
-Experimenting with these prompts allows you to refine your content through thoughtful adjustments, ultimately creating more persuasive and impactful results
+Experimenting with these prompts allows you to refine your content through thoughtful adjustments, ultimately creating more persuasive and impactful content.
 
 **Next**: [Task 3](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/Task_3_Create_a_Program_pitch_presentation.html)
 

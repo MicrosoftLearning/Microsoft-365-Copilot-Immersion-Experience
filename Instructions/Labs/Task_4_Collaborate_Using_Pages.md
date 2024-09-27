@@ -7,7 +7,7 @@ task:
 
 In this task, you’ll explore the new **Pages** functionality, a dynamic, shareable space for collaboration and idea organization.
 
-At the moment, Pages is only available when using the **Work tab** scope in Business Chat; however, this functionality will be coming to the **Web tab** scope in the future.
+Currently, Pages is only available when using the Work tab scope in Business Chat; however, this functionality will be coming to the **Web tab** scope in the future.
 <BR>
 <BR>
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4;">
@@ -32,7 +32,7 @@ At the moment, Pages is only available when using the **Work tab** scope in Busi
 
     ![Screenshot showing pages in bizchat.](../Labs/Media/edit-in-pages.png)
 
-1. A new **Pages** window will open. This is a collaborative space where you and others can work together in real time. To share the Page, type the "@" symbol followed by a colleague’s name.
+1. A new **Pages** window will open. This is a collaborative space where you and others can work together in real-time. To share the Page, type the "@" symbol followed by a colleague’s name.
 
 1. After adding your colleague, click on their name to give them access. They will receive an email notification with a link to collaborate on the Page:
 
