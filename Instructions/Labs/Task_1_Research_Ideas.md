@@ -14,7 +14,7 @@ Using Business Chat (BizChat) in the Microsoft 365 App, research Giving Campaign
 
 ### Steps:
 
-1. To launch Business Chat, open a new Edge browser tab and navigate to <a href="https://Microsoft.com/Copilot" target="_blank">Microsoft.com/Copilot</a>.
+1. To launch Business Chat, open a new Edge browser tab and navigate to <a href="https://copilot.cloud.microsoft.com" target="_blank">copilot.cloud.microsoft.com</a>.
 
 2. If prompted to sign in, log into your work account.
 
