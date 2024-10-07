@@ -2,7 +2,7 @@
 
 ## BizChat Mobile Demo Steps
 
-1. Launch Copilot on your Mobile device.
+1. Launch Microsoft 365 app on your Mobile device.
 
 1. Ensure **Work Tab** is selected.
 
