@@ -16,8 +16,8 @@ Use Microsoft 365 Copilot to quickly generate a range of creative outputs. This 
 
 - **Create a Logo**:
 
-    1. Navigate to Business Chat within the Microsoft 365 App by typing in the following URL in your Edge browser: <a href="https://copilot.cloud.microsoft.com" target="_blank">copilot.cloud.microsoft.com</a>.
-    1. In **Business Chat**, copy and paste the sample prompt into the prompt field:
+    1. Navigate to Business Chat within the Microsoft 365 App by typing in the following URL in your Edge browser: <a href="https://m365.cloud.microsoft/chat" target="_blank">m365.cloud.microsoft/chat</a>.
+    1. In **Business Chat**, ensure that the **Web tab** is selected, then copy and paste the sample prompt into the prompt field:
 
         **Sample Prompt**
 

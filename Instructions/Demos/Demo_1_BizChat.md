@@ -19,7 +19,7 @@
 
 ## BizChat in Microsoft 365 App Demo Steps
 
-1. Launch BizChat by navigating to [copilot.cloud.microsoft.com](https://copilot.cloud.microsoft.com).
+1. Launch BizChat by navigating to [m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat).
 
 1. With BizChat open, ensure the Work tab is selected.
 
@@ -67,4 +67,4 @@
 
     ![Screenshot showing share and notify in pages.](../Labs/Media/share.png)
 
-1. Once your colleague has access, they are free to continue working on the page through Outlook, pages, or loop. 
+1. Once your colleague has access, they are free to continue working on the page through Outlook, Pages, or Loop. 

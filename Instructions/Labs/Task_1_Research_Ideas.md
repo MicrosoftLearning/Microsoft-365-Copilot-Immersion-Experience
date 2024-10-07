@@ -11,10 +11,15 @@ Using Business Chat (BizChat) in the Microsoft 365 App, research Giving Campaign
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4;">
 <strong>Note:</strong> While we provide sample prompts, feel free to personalize them in your own style. Be creative and experiment. If Copilot doesn't give the desired output, refine your prompt and try again. Enjoy the process!
 </div>
+<BR>
+<div style="background-color: #ffe6e6; padding: 10px; border-left: 5px solid #ffe6e6;">
+<strong>Important:</strong> If you have not already created and saved the document <strong>Copilot Research.docx</strong> to your OneDrive, please do so now by navigating to <a href="https://word.new" target="_blank">word.new</a>.
+</div>
+
 
 ### Steps:
 
-1. To launch Business Chat, open a new Edge browser tab and navigate to <a href="https://copilot.cloud.microsoft.com" target="_blank">copilot.cloud.microsoft.com</a>.
+1. To launch Business Chat, open a new Edge browser tab and navigate to <a href="https://m365.cloud.microsoft/chat" target="_blank">m365.cloud.microsoft/chat</a>.
 
 2. If prompted to sign in, log into your work account.
 
