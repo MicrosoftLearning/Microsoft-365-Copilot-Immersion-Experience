@@ -95,4 +95,4 @@ By using a CoT prompt, you encourage deeper engagement with the subject matter, 
 
 **Next**: [Task 2](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/AIAcademy/Task_2_Draft_a_Program_Proposal.html)
 
-[Back to Index](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/AIAcademy/index.html)
+[Back to Index](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/AIAcademy/index_1.html)
