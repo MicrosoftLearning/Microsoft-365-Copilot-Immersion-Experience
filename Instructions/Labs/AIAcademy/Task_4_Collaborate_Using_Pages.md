@@ -21,7 +21,7 @@ Currently, Pages is only available when using the Work tab scope in Business Cha
 
 1. Once Business Chat is open, select the **Work tab**:
 
-    ![Screenshot showing work tab in bizchat.](../Labs/Media/work-tab.png)
+    ![Screenshot showing work tab in bizchat.](../Media/work-tab.png)
 
 1. Type the following prompt into the chat:
 
@@ -30,13 +30,13 @@ Currently, Pages is only available when using the Work tab scope in Business Cha
     ```
 1. Copilot will respond with a structured answer. Below the response, select **Edit in Pages**:
 
-    ![Screenshot showing pages in bizchat.](../Labs/Media/edit-in-pages.png)
+    ![Screenshot showing pages in bizchat.](../Media/edit-in-pages.png)
 
 1. A new **Pages** window will open. This is a collaborative space where you and others can work together in real-time. To share the Page, type the "@" symbol followed by a colleague’s name.
 
 1. After adding your colleague, click on their name to give them access. They will receive an email notification with a link to collaborate on the Page:
 
-    ![Screenshot showing share and notify in pages.](../Labs/Media/share.png)
+    ![Screenshot showing share and notify in pages.](../Media/share.png)
 
 1. Once your colleague has access, you are free to work together to refine the ideas and organize steps for the Giving Campaign.
 

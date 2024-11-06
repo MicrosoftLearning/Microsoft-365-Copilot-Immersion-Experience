@@ -25,7 +25,7 @@ Using Business Chat (BizChat) in the Microsoft 365 App, research Giving Campaign
 
 3. With BizChat open, ensure that the **Web tab** is selected:
 
-    ![Screenshot showing web tab in bizchat.](../Labs/Media/web-tab.png)
+    ![Screenshot showing web tab in bizchat.](../Media/web-tab.png)
 
 4. Explore one or more of the prompting techniques below to help guide your research in Business Chat:
 

@@ -16,7 +16,7 @@ Using the Word document created in Task 2, leverage Copilot in PowerPoint to dev
 
 1. Open the program proposal document that you saved to your OneDrive account in Task 2. Copy the URL of the document by selecting the Share button in the upper-right corner, above the ribbon and selecting Copy Link from the drop-down menu that appears.
 
-    ![Screenshot showing the Share menu and the Copy Link option highlighted.](../Labs/Media/share-menu-with-copy-link.png)
+    ![Screenshot showing the Share menu and the Copy Link option highlighted.](../Media/share-menu-with-copy-link.png)
 
 1. Launch Microsoft PowerPoint from your browser (<a href="https://PowerPoint.new" target="_blank">PowerPoint.new</a>) or use the desktop application.
 

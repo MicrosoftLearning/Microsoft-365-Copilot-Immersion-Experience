@@ -16,7 +16,7 @@ Based on your research using BizChat, use Copilot in Word to draft a comprehensi
 
 1. Open the copilot research document that you saved to your OneDrive account in Task 1. Copy the URL of the document by selecting the Share button in the upper-right corner, above the ribbon and selecting **Copy Link** from the drop-down menu that appears.
 
-    ![Screenshot showing the Share menu and the Copy Link option highlighted.](../Labs/Media/share-menu-with-copy-link.png)
+    ![Screenshot showing the Share menu and the Copy Link option highlighted.](../Media/share-menu-with-copy-link.png)
 
 1. Launch Microsoft Word from your browser (<a href="https://word.new" target="_blank">word.new</a>) or use the desktop application.
 
@@ -24,7 +24,7 @@ Based on your research using BizChat, use Copilot in Word to draft a comprehensi
 
 1. Select the Copilot logo that appears at the top of the blank document to open **Draft with Copilot**.
 
-    ![Screenshot showing draft with Copilot in Word.](../Labs/Media/draft-with-copilot.png)
+    ![Screenshot showing draft with Copilot in Word.](../Media/draft-with-copilot.png)
 
 1. Enter the following prompt into the prompt field:
 

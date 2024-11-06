@@ -15,7 +15,7 @@ This optional task demonstrates how to use Copilot in Word to efficiently extrac
 1. Download and open the following file in Word on your desktop: <a href="https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Resourcefiles/Microsoft_FY24_Second_Quarter_Earnings_Conference_Call.docx" target="_blank">**Microsoft FY24 Second Quarter Earnings Conference Call**</a>
 1. Within Word, on the ribbon, select the **Copilot icon**.
 
-    ![Screenshot showing keep it in Copilot.](../Labs/Media/copilot_icon.png)
+    ![Screenshot showing keep it in Copilot.](../Media/copilot_icon.png)
 
 1. In the **Ask me anything about this document** field, copy and paste the prompt or type:
 
