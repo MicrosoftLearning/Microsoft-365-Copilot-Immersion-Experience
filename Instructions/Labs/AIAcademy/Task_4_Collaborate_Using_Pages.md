@@ -40,6 +40,6 @@ Currently, Pages is only available when using the Work tab scope in Business Cha
 
 1. Once your colleague has access, you are free to work together to refine the ideas and organize steps for the Giving Campaign.
 
-**Next**: [Optional Task 1](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/Optional_Task_1_Create_an_image.html) | [Optional task 2](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/Optional_Task_2_Data_mine_large_document.html)
+**Next**: [Optional Task 1](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/AIAcademy/Optional_Task_1_Create_an_image.html) | [Optional task 2](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/AIAcademy/Optional_Task_2_Data_mine_large_document.html)
 
-[Back to Index](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/)
+[Back to Index](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/AIAcademy/index.html)

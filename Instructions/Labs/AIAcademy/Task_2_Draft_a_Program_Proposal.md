@@ -58,6 +58,6 @@ Improve the summary to make it more concise and impactful.
 
 Experimenting with these prompts allows you to refine your content through thoughtful adjustments, ultimately creating more persuasive and impactful content.
 
-**Next**: [Task 3](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/Task_3_Create_a_Program_pitch_presentation.html)
+**Next**: [Task 3](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/AIAcademy/Task_3_Create_a_Program_pitch_presentation.html)
 
-[Back to Index](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/)
+[Back to Index](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/AIAcademy/index.html)

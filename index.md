@@ -4,6 +4,11 @@ permalink: index.html
 layout: home
 ---
 
+[AI Academy Experience](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/AIAcademy/index.html)
+
+
+PubSec Experience: 
+
 ### [Task 1:](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Task_1.html)
 
 ### [Task 2:](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Task_2.html)

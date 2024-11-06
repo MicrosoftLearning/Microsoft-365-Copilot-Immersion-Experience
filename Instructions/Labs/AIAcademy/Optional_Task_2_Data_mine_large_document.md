@@ -31,5 +31,4 @@ This optional task demonstrates how to use Copilot in Word to efficiently extrac
     ```
 
 1. Select **Send**.
-
-[Back to Index](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/)
+https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/AIAcademy/index.html)

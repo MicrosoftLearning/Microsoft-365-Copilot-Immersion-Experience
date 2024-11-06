@@ -93,6 +93,6 @@ For example
 
 By using a CoT prompt, you encourage deeper engagement with the subject matter, leading to more thoughtful and well-rounded answers. This approach fosters a logical progression of ideas, making it easier to explore complex scenarios and arrive at actionable insights.
 
-**Next**: [Task 2](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/Task_2_Draft_a_Program_Proposal.html)
+**Next**: [Task 2](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/AIAcademy/Task_2_Draft_a_Program_Proposal.html)
 
-[Back to Index](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/)
+[Back to Index](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/AIAcademy/index.html)

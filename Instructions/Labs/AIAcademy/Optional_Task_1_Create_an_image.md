@@ -45,6 +45,6 @@ Use Microsoft 365 Copilot to quickly generate a range of creative outputs. This 
     <strong>Note:</strong> Replace the text within brackets with your specific choice
     </div>
 
-**Next**: [Optional task 2](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/Optional_Task_2_Data_mine_large_document.html)
+**Next**: [Optional task 2](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/AIAcademy/Optional_Task_2_Data_mine_large_document.html)
 
-[Back to Index](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/)
+[Back to Index](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/AIAcademy/index.html)
