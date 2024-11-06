@@ -1,7 +1,6 @@
 ---
-title: Online Hosted Instructions
-permalink: index.html
-layout: home
+task:
+    title: 'Index 1'
 ---
 
 ## Growing your AI skills
