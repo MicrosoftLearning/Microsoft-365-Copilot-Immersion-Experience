@@ -24,7 +24,7 @@ You will perform four tasks:
 
 ### [Task 2: Draft a document using Microsoft 365 Copilot in Word](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Task_2.html)
 
-### [Task 3: Collaborate with Pages](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Task_4.html)
+### [Task 3: Collaborate with Pages](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Task_3.html)
 
-### [Task 4: Gathering Insights and Drafting a Follow-up Email](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Task_3.html)
+### [Task 4: Gathering Insights and Drafting a Follow-up Email](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Task_4.html)
 
