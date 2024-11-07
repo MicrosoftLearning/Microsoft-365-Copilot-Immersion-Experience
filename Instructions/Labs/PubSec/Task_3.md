@@ -35,11 +35,16 @@ In this task, you’ll explore the new **Pages** functionality, a dynamic, share
 
     ![Screenshot showing share and notify in pages.](../Media/share.png)
 
-1.Once your colleague has access, you can work together to refine the recommendations, add supporting data, and organize ideas into actionable steps.
+1. Once your colleague has access, you can work together to refine the recommendations, add supporting data, and organize ideas into actionable steps.
 
-**TIP**: Within BizChat, you can send Copilot's response directly to a new page by selecting **Edit in Pages**:
+### **TIP**:
+ When using BizChat with the **work** tab selected, you can send Copilot's response directly to a new page by selecting **Edit in Pages**:
 
-![Screenshot showing pages in bizchat.](../Media/edit-in-pages.png)
+![Screenshot showing edit in pages within bizchat.](../Media/edit-in-pages.png)
+
+You can also share a page to a workspace in Loop by selecting the ellipsis (...) next to any page:
+
+![Screenshot showing add to workspace.](../Media/add-to-workspace.png)
 
 **Next**: [Task 2](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Task_4.html)
 

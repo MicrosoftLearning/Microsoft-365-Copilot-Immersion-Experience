@@ -32,7 +32,7 @@ In this task, you’ll use Business Chat (BizChat) in Teams to gather insights f
 
 1. In the email draft, open **Copilot** by selecting **Draft with Copilot**.
 
-    ![screenshot showing BizChat within Teams.](../Media/mobile-draft-with-copilot.png)
+    ![screenshot showing draft with copilot in Outlook mobile.](../Media/mobile-draft-with-copilot.png)
 
 
 1. Enter the following prompt to draft a follow-up email based on the insights you gathered in BizChat:
