@@ -1,9 +1,9 @@
 ---
 task:
-    title: 'Task 1: Using Microsoft 365 Business Chat to summarize information'
+    title: 'Task 1: Streamline Data Analysis & Insights with Microsoft 365 Business Chat'
 ---
 
-# Task 1: Using Microsoft 365 Business Chat to research & summarize information
+# Task 1: Streamline Data Analysis & Insights with Microsoft 365 Business Chat
 
 In this task, you’ll use Business Chat (BizChat) in the Microsoft 365 App to analyze data from the People Matters Survey. The goal is to gain insights into employee engagement, inclusion, and wellbeing within the organization. You’ll focus on identifying key trends, comparing organizational scores with industry benchmarks, and uncovering areas for improvement. By the end of this task, you’ll have developed recommendations or strategies that address identified challenges in your focus area, setting a foundation for further organizational development.
 
@@ -35,7 +35,7 @@ In this task, you’ll use Business Chat (BizChat) in the Microsoft 365 App to a
     - Role Prompting (Persona-based Prompting)
     - Chain of Thought Prompting
 
-1. Once you have finished researching your focus area insights, save them to the Word file you created earlier, titled **Copilot Research.docx**, for use in the next task.
+1. Once you have finished analyzing your survey results, save BizChat's outputs to the Word file you created earlier, titled **Copilot Research.docx**, for use in the next task.
 
 ## Choosing Your Prompting Technique
 
