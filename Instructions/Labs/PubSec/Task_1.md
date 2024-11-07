@@ -108,3 +108,7 @@ Example sequence for exploring employee engagement challenges:
     ```
 
 This structured approach helps you explore engagement challenges in a way that builds toward actionable strategies and measurement plans.
+
+**Next**: [Task 2](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Task_2.html)
+
+[Back to Index](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/)

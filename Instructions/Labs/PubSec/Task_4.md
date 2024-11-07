@@ -3,7 +3,7 @@ task:
     title: 'Task 4: Gathering Insights and Drafting a Follow-up Email'
 ---
 
-### Task 3: Gathering Insights and Drafting a Follow-up Email
+# Task 4: Gathering Insights and Drafting a Follow-up Email
 
 In this task, you’ll use Business Chat (BizChat) in Teams to gather insights from recent interactions with a specific person or on a specific topic. This will help you quickly get up to speed on recent communications, ensuring you’re well-prepared to follow up. Then, you’ll switch to Outlook Mobile to draft a follow-up email using Copilot, allowing you to respond promptly and effectively based on your findings.
 
@@ -46,5 +46,4 @@ In this task, you’ll use Business Chat (BizChat) in Teams to gather insights f
 
 1. Once you’re satisfied with the email, save it as a draft or send it directly from Outlook Mobile.
 
-
-
+[Back to Index](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/)

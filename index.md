@@ -4,7 +4,7 @@ permalink: index.html
 layout: home
 ---
 
-[AI Academy Experience](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/AIAcademy/index_1.html)
+[//]: # (AI Academy Experience https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/AIAcademy/index_1.html)
 
 ## Growing your AI skills
 

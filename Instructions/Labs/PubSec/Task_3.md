@@ -3,7 +3,7 @@ task:
     title: 'Task 3: Collaborate with Pages'
 ---
 
-# Task 4: Collaborate Using Pages
+# Task 3: Collaborate Using Pages
 
 In this task, you’ll explore the new **Pages** functionality, a dynamic, shareable space for collaboration and idea organization.
 
@@ -40,3 +40,7 @@ In this task, you’ll explore the new **Pages** functionality, a dynamic, share
 **TIP**: Within BizChat, you can send Copilot's response directly to a new page by selecting **Edit in Pages**:
 
 ![Screenshot showing pages in bizchat.](../Media/edit-in-pages.png)
+
+**Next**: [Task 2](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Task_4.html)
+
+[Back to Index](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/)

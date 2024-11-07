@@ -52,3 +52,7 @@ Add a concluding section that reinforces the organization’s commitment to supp
 ```
 
 Experiment with different prompts to refine your summary, ensuring it resonates with employees and conveys a sense of positive momentum and commitment to their experience.
+
+**Next**: [Task 2](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Task_3.html)
+
+[Back to Index](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/)
