@@ -46,6 +46,6 @@ You can also share a page to a workspace in Loop by selecting the ellipsis (...)
 
 ![Screenshot showing add to workspace.](../Media/add-to-workspace.png)
 
-**Next**: [Task 2](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Task_4.html)
+**Next**: [Task 4](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Task_4.html)
 
 [Back to Index](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/)
