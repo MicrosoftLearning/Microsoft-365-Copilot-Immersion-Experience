@@ -53,15 +53,15 @@ Single-shot prompting uses a single, well-crafted prompt to get a comprehensive 
 Prompt examples (choose one):
 
 ```text
-Identify and summarize the top three areas with the highest employee satisfaction based on the survey results from [Paste link to People Matters Survey results].
+Identify and summarize the top three areas where employees feel most supported and engaged based on the survey results from [Paste link to People Matters Survey results]. Highlight any unique strengths that the organization could build on.
 ```
 
 ```text
-Using data from the ‘Engagement’ and ‘Inclusion’ sections in [Paste link to People Matters Survey results], create recommendations to enhance employee engagement and inclusion within the organization.
+Using data from the ‘Engagement’ and ‘Inclusion’ sections in [Paste link to People Matters Survey results], create recommendations that amplify existing strengths to further enhance employee engagement and inclusion within the organization.
 ```
 
 ```text
-Using the ‘Work-Related Stress’ section in [Paste link to People Matters Survey results], extract and compare the main causes of work-related stress against industry averages. Then, recommend strategies that could help mitigate high-stress factors within the organization.
+From the ‘Work-Related Wellbeing’ section in [Paste link to People Matters Survey results], identify the key factors that contribute to a positive work environment. Highlight these areas and suggest ways to sustain or expand on these strengths across teams.
 ```
 
 This approach is more efficient when seeking a broad summary but may not allow the same depth as Chain of Thought prompting.
@@ -73,7 +73,7 @@ Role prompting involves instructing the AI to assume a specific role for tailore
 Example prompt:
 
 ```text
-You are a senior manager responsible for [employee wellbeing]. Using data from [paste link to People Matters Survey], identify key issues within your focus area where the organization’s scores are below the comparator group. Then, propose specific actions or initiatives that could help improve these scores and support the organization’s values.
+You are a senior manager responsible for [employee wellbeing]. Using data from [paste link to People Matters Survey], identify key strengths within your focus area where the organization’s scores are above the comparator group. Then, propose specific actions or initiatives that could help reinforce these positive outcomes and support the organization’s values.
 ```
 <br> 
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4;"> <strong>Note:</strong> Replace the bracketed text with your specific focus area as needed </div>
@@ -89,19 +89,20 @@ Example sequence for exploring employee engagement challenges:
 - **Prompt 1:**
 
     ```text
-    Based on the People Matters Survey results, [paste link to People Matters Survey], what are the primary factors contributing to lower employee engagement within the organization?
+   Based on the People Matters Survey results, [paste link to People Matters Survey], what are the primary factors contributing to high employee engagement and satisfaction within the organization? Highlight any patterns that stand out as strengths.
+
     ```
 
 - **Prompt 2:**
 
     ```text
-    Considering these engagement challenges, can you suggest strategies or initiatives that could effectively address these areas of concern and improve engagement?
+    Considering these engagement strengths, can you suggest strategies or initiatives that could reinforce and build upon these areas, supporting sustained engagement?
     ```
 
 - **Prompt 3:**
 
     ```text
-    Finally, given these strategies, how could the organization measure improvements in engagement over time? Identify specific metrics or indicators that would demonstrate progress based on future survey results.
+    Finally, given these strategies, how could the organization track continued success in engagement? Identify specific metrics or indicators that would demonstrate progress and recognize ongoing positive outcomes based on future survey results.
     ```
 
 This structured approach helps you explore engagement challenges in a way that builds toward actionable strategies and measurement plans.
