@@ -8,8 +8,6 @@ task:
 In this task, you’ll use Business Chat (BizChat) in the Microsoft 365 App to analyze data from the People Matters Survey. The goal is to gain insights into employee engagement, inclusion, and wellbeing within the organization. You’ll focus on identifying key trends, comparing organizational scores with industry benchmarks, and uncovering areas for improvement. By the end of this task, you’ll have developed recommendations or strategies that address identified challenges in your focus area, setting a foundation for further organizational development.
 
 <div style="background-color: #ffe6e6; padding: 10px; border-left: 5px solid #ff5c5c;"> <strong>Important:</strong> You can download the Word version of the 2023 survey results for your respective agencies <a href="https://vpsc.vic.gov.au/workforce-data-state-of-the-public-sector/data-sets-and-results/people-matter-survey-2023-results-by-organisation/" target="_blank">here</a>. </div> 
-<br> 
-<div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4;"> <strong>Note:</strong> Sample prompts are provided, but feel free to personalize them. Experiment and refine as needed. If Copilot doesn’t give the desired response, adjust your prompt and try again. Enjoy the process! </div>
 
 ### Steps:
 
@@ -35,7 +33,7 @@ In this task, you’ll use Business Chat (BizChat) in the Microsoft 365 App to a
     - Role Prompting (Persona-based Prompting)
     - Chain of Thought Prompting
 
-1. Once you have finished analyzing your survey results, save BizChat's outputs to the Word file you created earlier, titled **Copilot Research.docx**, for use in the next task.
+1. Once you have finished analyzing your survey results, save Copilot's responses to the Word file you created earlier, titled **Copilot Research.docx**, for use in the next task.
 
 ## Choosing Your Prompting Technique
 

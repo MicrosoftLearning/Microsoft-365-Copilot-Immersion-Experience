@@ -6,15 +6,10 @@ task:
 # Task 2: Draft a document using Microsoft 365 Copilot in Word
 
 Based on your research using BizChat, use Copilot in Word to draft a briefing of key findings from the People Matters Survey to present at an upcoming employee town hall. This summary should be engaging and easy to understand, highlighting positive trends, areas of growth, and actionable steps the organization is taking.
-<BR>
-<BR>
-<div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4;">
-<strong>Note:</strong> While we provide sample prompts, feel free to personalize them in your own style. Be creative and experiment. If Copilot doesn't give the desired output, refine your prompt and try again. Enjoy the process!
-</div>
 
 ### Steps:
 
-1. Open the copilot research document that you saved to your OneDrive account in Task 1. Copy the URL of the document by selecting the Share button in the upper-right corner, above the ribbon and selecting **Copy Link** from the drop-down menu that appears.
+1. Open the **copilot research.docx** document that you saved to your OneDrive account in Task 1. Copy the URL of the document by selecting the Share button in the upper-right corner, above the ribbon and selecting **Copy Link** from the drop-down menu that appears.
 
     ![Screenshot showing the Share menu and the Copy Link option highlighted.](../Media/share-menu-with-copy-link.png)
 
@@ -38,7 +33,7 @@ Based on your research using BizChat, use Copilot in Word to draft a briefing of
 
     However, if you'd like to refine the document further, explore the information in the **Iterate and Revise** section below.
 
-[//]: # ( 1. Save the file to your OneDrive account with the following file name: **executive briefing.docx**. The next exercise uses this document.)
+1. Save the file to your OneDrive as **executive briefing.docx**, then copy the link to this document. (See Step 1 above for reference.)"
 
 ## Iterate and Revise
 
