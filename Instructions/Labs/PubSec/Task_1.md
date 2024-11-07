@@ -9,7 +9,7 @@ In this task, you’ll use Business Chat (BizChat) in the Microsoft 365 App to a
 
 <div style="background-color: #ffe6e6; padding: 10px; border-left: 5px solid #ff5c5c;"> <strong>Important:</strong> You can download the Word version of the 2023 survey results for your respective agencies <a href="https://vpsc.vic.gov.au/workforce-data-state-of-the-public-sector/data-sets-and-results/people-matter-survey-2023-results-by-organisation/" target="_blank">here</a>. </div> 
 
-### Steps:
+### Get your document ready
 
 1. Open the **Word** document you'd like to use for this task.
 
@@ -18,6 +18,8 @@ In this task, you’ll use Business Chat (BizChat) in the Microsoft 365 App to a
 1. Copy the URL of the document by selecting the **Share** button in the upper-right corner above the ribbon and selecting **Copy Link** from the drop-down menu that appears.
 
     ![Screenshot showing the Share menu and the Copy Link option highlighted.](../Media/share-menu-with-copy-link.png)
+
+### Steps:
 
 1. launch **BizChat** by opening a new Edge browser tab and navigating to <a href="https://m365.cloud.microsoft/chat" target="_blank">m365.cloud.microsoft/chat</a>.
 
