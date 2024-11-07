@@ -53,6 +53,10 @@ Single-shot prompting uses a single, well-crafted prompt to get a comprehensive 
 Prompt examples (choose one):
 
 ```text
+Compare the current People Matters Survey results [Paste link to this year's survey results] with last year's results [Paste link to last year's survey results] to identify the top three areas where employee satisfaction has shown the most improvement. 
+```
+
+```text
 Identify and summarize the top three areas where employees feel most supported and engaged based on the survey results from [Paste link to People Matters Survey results]. Highlight any unique strengths that the organization could build on.
 ```
 
