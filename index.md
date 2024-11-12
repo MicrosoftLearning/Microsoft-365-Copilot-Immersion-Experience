@@ -22,6 +22,8 @@ You will perform four tasks:
 
 ### [Task 1: Streamline Data Analysis & Insights with Microsoft 365 Business Chat](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Task_1.html)
 
+Using Microsoft 365 Business Chat (BizChat), you'll uncover actionable insights from your People Matter Survey results, identifying key departmental trends to inform decision-making and strategic planning.
+
 ### [Task 2: Draft a document using Microsoft 365 Copilot in Word](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Task_2.html)
 
 ### [Task 3: Collaborate with Pages](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Task_3.html)

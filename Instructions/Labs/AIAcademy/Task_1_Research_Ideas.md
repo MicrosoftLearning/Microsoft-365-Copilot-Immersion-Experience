@@ -57,7 +57,7 @@ Here’s an example of how you could apply role prompting:
 You are an employee at Microsoft, and you've been tasked with creating a grassroots Giving Campaign focused on [environmental sustainability]. First, brainstorm and propose a specific campaign idea that aligns with your company's sustainability and social responsibility goals. Then, outline how you would engage your colleagues and suggest local charities or communities in [specific city/region] that could be potential partners to implement the campaign.
 ```
 
-In this prompt, the AI assumes the role of an employee within your organization, tasked with running a sustainability-focused campaign with the goal of rallying internal support and aligning the campaign with your organization’s specific values and priorities.
+In this prompt, the AI assumes the role of an employee within your department, tasked with running a sustainability-focused campaign with the goal of rallying internal support and aligning the campaign with your department’s specific values and priorities.
 
 Or, you can refine the focus further:
 

@@ -13,6 +13,8 @@ In this task, you’ll explore the new **Pages** functionality, a dynamic, share
 
 1. If prompted, log into your work account.
 
+1. If you've never used pages before, select **Create new page** when prompted. 
+
 1. Once **Pages** is open, select the **Add a new page** (+):
 
     ![Screenshot showing add new page.](../Media/add-new-age.png)
@@ -23,10 +25,10 @@ In this task, you’ll explore the new **Pages** functionality, a dynamic, share
 
 1. Click below the inserted document and select the Copilot logo next to the text "Use Copilot or just start typing...".
 
-1. Type the following prompt into the chat:
+1. Type the following example prompt, or any prompt you'd like to try out:
 
     ```text
-    Based on the findings [/executive briefing.docx], what are the top three recommendations for enhancing employee engagement, inclusion, and wellbeing in our organization?
+    Based on the findings [paste link to executive briefing.docx], what are the top three recommendations for enhancing employee engagement, inclusion, and wellbeing in our department?
     ```
 
 1. Use Pages as a collaborative space to work with your colleagues in real-time. Share the page by typing the "@" symbol followed by a colleague’s name.
