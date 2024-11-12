@@ -10,7 +10,6 @@ In this task, you'll use Microsoft 365 Business Chat (BizChat) to uncover action
 ### Get your document ready
 
 <div style="background-color: #ffe6e6; padding: 10px; border-left: 5px solid #ff5c5c;"> <strong>Important:</strong> Download the Word version of the 2023 survey results for your respective departments <a href="https://vpsc.vic.gov.au/workforce-data-state-of-the-public-sector/data-sets-and-results/people-matter-survey-2023-results-by-organisation/" target="_blank">here</a> or, if you have a more recent version on hand, feel free to use that as your data source. </div> 
-<BR>
 
 1. In **Word**, open the People Matter Survey document you’d like to use for this task.
 1. Ensure your document is saved to OneDrive. If it’s not already saved to OneDrive, select **File** > **Save a Copy** > select **OneDrive** from the top of the list > **Save**.

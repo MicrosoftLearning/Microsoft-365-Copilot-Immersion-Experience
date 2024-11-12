@@ -11,7 +11,6 @@ In this task, you’ll use Business Chat (BizChat) in Teams to gather insights f
     <strong>Important:</strong> If you don’t have Microsoft 365 apps (Teams & Outlook) downloaded on your mobile device, please follow along with the desktop version of this task 
     <a href="https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Task_4_desktop.html" target="_blank">here</a>.
 </div>
-<BR>
 
 ### Steps:
 
