@@ -5,9 +5,9 @@ task:
 
 # Task 1: Streamline Data Analysis & Insights with Microsoft 365 Business Chat
 
-In this task, you'll use Microsoft 365 Business Chat (BizChat) to uncover actionable insights from your People Matter Survey results. Leveraging Copilot, you’ll identify key department trends that can guide informed decision-making and strategic planning.
+In this task, you'll use Microsoft 365 Business Chat (BizChat) to uncover actionable insights from your People Matter Survey results. Leveraging Copilot, you’ll identify key departmental trends that can guide informed decision-making and strategic planning.
 
-### Get your document ready
+### Prepare your Document
 
 <div style="background-color: #ffe6e6; padding: 10px; border-left: 5px solid #ff5c5c;"> <strong>Important:</strong> Download the Word version of the 2023 survey results for your respective departments <a href="https://vpsc.vic.gov.au/workforce-data-state-of-the-public-sector/data-sets-and-results/people-matter-survey-2023-results-by-organisation/" target="_blank">here</a> or, if you have a more recent version on hand, feel free to use that as your data source. </div> 
 
@@ -41,7 +41,7 @@ In this task, you'll use Microsoft 365 Business Chat (BizChat) to uncover action
 Each prompting technique below offers unique benefits depending on the depth of analysis you need. Choose the one that best aligns with your objectives:
 
 - **Single-Shot Prompting** is ideal for a quick overview or broad insights.
-- **Role Prompting** adds a personal and professional perspective, helping you analyze data as if you were in a specific role.
+- **Role Prompting** adds a personal and professional perspective, helping you analyze data from a specific role's viewpoint.
 - **Chain of Thought Prompting** enables a deeper exploration of complex issues through a logical series of connected prompts.
 
 
@@ -52,19 +52,19 @@ Single-shot prompting uses a single, well-crafted prompt to get a comprehensive 
 Prompt examples (choose one):
 
 ```text
-Compare the current People matter Survey results [Paste link to this year's survey results] with last year's results [Paste link to last year's survey results] to identify the top three areas where employee satisfaction has shown the most improvement. 
+Compare the current People Matter Survey results [Paste link to this year's survey results] with last year's results [Paste link to last year's survey results] to identify the top three areas where employee satisfaction has shown the most improvement. 
 ```
 
 ```text
-Identify and summarize the top three areas where employees feel most supported and engaged based on the survey results from [Paste link to People matter Survey results]. Highlight any unique strengths that the department could build on.
+Identify and summarize the top three areas where employees feel most supported and engaged based on the survey results from [Paste link to People Matter Survey results]. Highlight any unique strengths that the department could build on.
 ```
 
 ```text
-Using data from the ‘Engagement’ and ‘Inclusion’ sections in [Paste link to People matter Survey results], create recommendations that amplify existing strengths to further enhance employee engagement and inclusion within the department.
+Using data from the ‘Engagement’ and ‘Inclusion’ sections in [Paste link to People Matter Survey results], create recommendations that amplify existing strengths to further enhance employee engagement and inclusion within the department.
 ```
 
 ```text
-From the ‘Work-Related Wellbeing’ section in [Paste link to People matter Survey results], identify the key factors that contribute to a positive work environment. Highlight these areas and suggest ways to sustain or expand on these strengths across teams.
+From the ‘Work-Related Wellbeing’ section in [Paste link to People Matter Survey results], identify the key factors that contribute to a positive work environment. Highlight these areas and suggest ways to sustain or expand on these strengths across teams.
 ```
 
 This approach is more efficient when seeking a broad summary but may not allow the same depth as Chain of Thought prompting.
@@ -76,7 +76,7 @@ Role prompting involves instructing the AI to assume a specific role for tailore
 Example prompt:
 
 ```text
-You are a senior manager responsible for [employee wellbeing]. Using data from [paste link to People matter Survey], identify key strengths within your focus area where the department’s scores are above the comparator group. Then, propose specific actions or initiatives that could help reinforce these positive outcomes and support the department’s values.
+You are a senior manager responsible for [employee wellbeing]. Using data from [paste link to People Matter Survey], identify key strengths within your focus area where the department’s scores are above the comparator group. Then, propose specific actions or initiatives that could help reinforce these positive outcomes and support the department’s values.
 ```
 <br> 
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4;"> <strong>Note:</strong> Replace the bracketed text with your specific focus area as needed </div>
@@ -85,14 +85,14 @@ This technique allows you to develop recommendations that feel aligned with real
 
 ## Chain of Thought Prompting
 
-Chain of Thought (CoT) prompting breaks down complex issues into connected steps, enabling detailed analysis through a logical sequence.
+Chain of Thought (CoT) prompting breaks down complex issues into a sequence of steps, enabling detailed analysis through a logical sequence.
 
 Example sequence for exploring employee engagement challenges:
 
 - **Prompt 1:**
 
     ```text
-   Based on the People matter Survey results, [paste link to People matter Survey], what are the primary factors contributing to high employee engagement and satisfaction within the department? Highlight any patterns that stand out as strengths.
+   Based on the People Matter Survey results, [paste link to People Matter Survey], what are the primary factors contributing to high employee engagement and satisfaction within the department? Highlight any patterns that stand out as strengths.
 
     ```
 

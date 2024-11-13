@@ -13,19 +13,19 @@ In this task, you’ll explore the new **Pages** functionality, a dynamic, share
 
 1. If prompted, log into your work account.
 
-1. If you've never used pages before, select **Create new page** when prompted. 
+1. If you've never used Pages before, select **Create new page** when prompted. 
 
-1. Once **Pages** is open, select the **Add a new page** (+):
+1. Once **Pages** is open, select **Add a new page** (+ icon):
 
-    ![Screenshot showing add new page.](../Media/add-new-age.png)
+    ![Screenshot showing add new page.](../Media/add-new-page.png)
 
-1. Give your new page a title, such as "People matter Survey Insights."
+1. Give your new page a title, such as "People Matter Survey Insights."
 
 1. In the body of Pages, paste the link to your **executive briefing.docx** document created in Task 2.
 
 1. Click below the inserted document and select the Copilot logo next to the text "Use Copilot or just start typing...".
 
-1. Type the following example prompt, or any prompt you'd like to try out:
+1. Type the following example prompt, or try your own prompt:
 
     ```text
     Based on the findings [paste link to executive briefing.docx], what are the top three recommendations for enhancing employee engagement, inclusion, and wellbeing in our department?
@@ -44,7 +44,7 @@ In this task, you’ll explore the new **Pages** functionality, a dynamic, share
 
 ![Screenshot showing edit in pages within bizchat.](../Media/edit-in-pages.png)
 
-You can also share a page to a workspace in Loop by selecting the ellipsis (...) next to any page:
+You can also share a page with a workspace in Loop by selecting the ellipsis (...) next to any page:
 
 ![Screenshot showing add to workspace.](../Media/add-to-workspace.png)
 
