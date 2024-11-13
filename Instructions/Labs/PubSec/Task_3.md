@@ -1,6 +1,6 @@
 ---
 task:
-    title: 'Task 3: Collaborate with Pages'
+    title: 'Task 3: Collaborate using Pages'
 ---
 
 # Task 3: Collaborate Using Pages
@@ -19,7 +19,7 @@ In this task, you’ll explore the new **Pages** functionality, a dynamic, share
 
     ![Screenshot showing add new page.](../Media/add-new-age.png)
 
-1. Give your new page a title, such as "People Matters Survey Insights."
+1. Give your new page a title, such as "People matter Survey Insights."
 
 1. In the body of Pages, paste the link to your **executive briefing.docx** document created in Task 2.
 

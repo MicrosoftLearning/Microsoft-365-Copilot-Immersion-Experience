@@ -1,11 +1,12 @@
 ---
 task:
-    title: 'Task 4: Gathering Insights and Drafting a Follow-up Email'
+    title: 'Task 4: review communications and send a follow-up email'
 ---
 
-# Task 4: Gathering Insights and Drafting a Follow-up Email
+# Task 4: review communications and send a follow-up email
 
-In this task, you’ll use Business Chat (BizChat) in Teams to gather insights from recent interactions with a specific person or on a specific topic. This will help you quickly get up to speed on recent communications, ensuring you’re well-prepared to follow up. Then, you’ll switch to Outlook Mobile to draft a follow-up email using Copilot, allowing you to respond promptly and effectively based on your findings.
+
+In this task, you’ll Use Business Chat (BizChat) in Teams on your mobile device to gather insights from recent interactions with a specific person on a specific topic. This will help you quickly get up to speed on recent communications, ensuring you’re well-prepared to follow up. Then, you’ll switch to Outlook Mobile to draft a follow-up email using Copilot, allowing you to respond promptly and effectively based on your findings.
 
 <div style="background-color: #ffe6e6; padding: 10px; border-left: 5px solid #ff5c5c;">
     <strong>Important:</strong> If you don’t have Microsoft 365 apps (Teams & Outlook) downloaded on your mobile device, please follow along with the desktop version of this task 

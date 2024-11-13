@@ -26,7 +26,13 @@ Using Microsoft 365 Business Chat (BizChat), you'll uncover actionable insights 
 
 ### [Task 2: Draft a document using Microsoft 365 Copilot in Word](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Task_2.html)
 
-### [Task 3: Collaborate with Pages](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Task_3.html)
+Using **Copilot in Word**, draft a briefing of key findings from the People Matters Survey to present at an upcoming employee town hall. This summary should be engaging and easy to understand, highlighting positive trends, areas of growth, and actionable steps the organization is taking.
+
+### [Task 3: Collaborate using Pages](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Task_3.html)
+
+Experience the new **Pages** functionality, which allows you to collaborate and organize ideas in a dynamic, shareable space.
+
 
 ### [Task 4: Gathering Insights and Drafting a Follow-up Email](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Task_4.html)
 
+Using **Business Chat (BizChat) in Teams** on your mobile device, gather insights from recent interactions with a specific person on a specific topic. This will help you quickly get up to speed on recent communications, ensuring you’re well-prepared to follow up. Then, switch to Outlook Mobile to draft a follow-up email with Copilot, allowing you to respond promptly and effectively based on your findings.

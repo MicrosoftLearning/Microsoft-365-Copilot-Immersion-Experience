@@ -1,6 +1,6 @@
 ---
 task:
-    title: 'Task 4 (Desktop): Gathering Insights and Drafting a Follow-up Email'
+    title: 'Task 4 (Desktop): review communications and send a follow-up email'
 ---
 
 ### Steps:

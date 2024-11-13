@@ -52,19 +52,19 @@ Single-shot prompting uses a single, well-crafted prompt to get a comprehensive 
 Prompt examples (choose one):
 
 ```text
-Compare the current People Matters Survey results [Paste link to this year's survey results] with last year's results [Paste link to last year's survey results] to identify the top three areas where employee satisfaction has shown the most improvement. 
+Compare the current People matter Survey results [Paste link to this year's survey results] with last year's results [Paste link to last year's survey results] to identify the top three areas where employee satisfaction has shown the most improvement. 
 ```
 
 ```text
-Identify and summarize the top three areas where employees feel most supported and engaged based on the survey results from [Paste link to People Matters Survey results]. Highlight any unique strengths that the department could build on.
+Identify and summarize the top three areas where employees feel most supported and engaged based on the survey results from [Paste link to People matter Survey results]. Highlight any unique strengths that the department could build on.
 ```
 
 ```text
-Using data from the ‘Engagement’ and ‘Inclusion’ sections in [Paste link to People Matters Survey results], create recommendations that amplify existing strengths to further enhance employee engagement and inclusion within the department.
+Using data from the ‘Engagement’ and ‘Inclusion’ sections in [Paste link to People matter Survey results], create recommendations that amplify existing strengths to further enhance employee engagement and inclusion within the department.
 ```
 
 ```text
-From the ‘Work-Related Wellbeing’ section in [Paste link to People Matters Survey results], identify the key factors that contribute to a positive work environment. Highlight these areas and suggest ways to sustain or expand on these strengths across teams.
+From the ‘Work-Related Wellbeing’ section in [Paste link to People matter Survey results], identify the key factors that contribute to a positive work environment. Highlight these areas and suggest ways to sustain or expand on these strengths across teams.
 ```
 
 This approach is more efficient when seeking a broad summary but may not allow the same depth as Chain of Thought prompting.
@@ -76,7 +76,7 @@ Role prompting involves instructing the AI to assume a specific role for tailore
 Example prompt:
 
 ```text
-You are a senior manager responsible for [employee wellbeing]. Using data from [paste link to People Matters Survey], identify key strengths within your focus area where the department’s scores are above the comparator group. Then, propose specific actions or initiatives that could help reinforce these positive outcomes and support the department’s values.
+You are a senior manager responsible for [employee wellbeing]. Using data from [paste link to People matter Survey], identify key strengths within your focus area where the department’s scores are above the comparator group. Then, propose specific actions or initiatives that could help reinforce these positive outcomes and support the department’s values.
 ```
 <br> 
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4;"> <strong>Note:</strong> Replace the bracketed text with your specific focus area as needed </div>
@@ -92,7 +92,7 @@ Example sequence for exploring employee engagement challenges:
 - **Prompt 1:**
 
     ```text
-   Based on the People Matters Survey results, [paste link to People Matters Survey], what are the primary factors contributing to high employee engagement and satisfaction within the department? Highlight any patterns that stand out as strengths.
+   Based on the People matter Survey results, [paste link to People matter Survey], what are the primary factors contributing to high employee engagement and satisfaction within the department? Highlight any patterns that stand out as strengths.
 
     ```
 
