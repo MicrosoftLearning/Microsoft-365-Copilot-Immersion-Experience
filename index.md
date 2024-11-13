@@ -8,10 +8,10 @@ layout: home
 
 ## Growing your AI skills
 
-In this interactive experience, you'll get inspired and use Microsoft 365 Copilot to streamline tasks such as research, drafting document, summarizing emails, and more.
+In this interactive experience, you'll get inspired and use Microsoft 365 Copilot to streamline tasks such as research, drafting documents, summarizing emails, and more.
 
-- You will have about 30 minutes to complete all the tasks.
-- In your browser, enter (<a href="https://word.new" target="_blank">word.new</a>), then save a new document titled 'Copilot Research.docx' to your OneDrive account.
+- You will have about 25 minutes to complete all the tasks.
+- In a Microsoft Edge browser, enter (<a href="https://word.new" target="_blank">word.new</a>), then save it to your OneDrive account as '**Copilot Research.docx**'.
 - Try different Copilots, experiment with prompts to see what works best, and enjoy the creative process!
 
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4;">
@@ -26,7 +26,7 @@ Using Microsoft 365 Business Chat (BizChat), you'll uncover actionable insights 
 
 ### [Task 2: Draft a document using Microsoft 365 Copilot in Word](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Task_2.html)
 
-Using **Copilot in Word**, draft a briefing of key findings from the People Matters Survey to present at an upcoming employee town hall. This summary should be engaging and easy to understand, highlighting positive trends, areas of growth, and actionable steps the organization is taking.
+Using **Copilot in Word**, draft a briefing of key findings from the People Matter Survey to present at an upcoming employee town hall. This summary should be engaging and easy to understand, highlighting positive trends, areas of growth, and actionable steps the organization is taking.
 
 ### [Task 3: Collaborate using Pages](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Task_3.html)
 
