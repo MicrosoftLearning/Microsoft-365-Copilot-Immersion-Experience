@@ -1,53 +1,57 @@
 ---
 task:
-    title: 'Task 3: Collaborate using Pages'
+    title: 'Task 3: Review communications and send a follow-up email'
 ---
 
-# Task 3: Collaborate Using Pages
+# Task 3: Review communications and send a follow-up email
 
-In this task, you’ll explore the new **Pages** functionality, a dynamic, shareable space for collaboration and idea organization.
+
+In this task, you’ll use Business Chat (BizChat) in Teams to gather insights from recent interactions with a specific person on a specific topic. This will help you quickly catch up on recent communications, ensuring you’re well-prepared to follow up. Then, you’ll switch to Outlook to draft a follow-up email using Copilot in Outlook, allowing you to respond promptly and effectively based on your findings.
+
+<div style="background-color: #ffe6e6; padding: 10px; border-left: 5px solid #ff5c5c;">
+    <strong>Important:</strong> (Optional) If you have Teams and Outlook downloaded on your mobile device, you can follow along with the mobile version of this task 
+    <a href="https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Task_3_mobile.html" target="_blank">here</a>.
+</div>
 
 ### Steps:
 
-1. To launch Pages, open a new Edge browser tab and navigate to <a href="https://m365.cloud.microsoft/pages/" target="_blank">m365.cloud.microsoft/pages</a>.
+1. In **Microsoft Teams**, select **Copilot** at the top of the **Chat** pane.  This will open a **Copilot** window.
+    
+    ![screenshot showing BizChat within Teams.](../Media/business-chat-in-teams.png)
 
-1. If prompted, log into your work account.
-
-1. If you've never used Pages before, select **Create new page** when prompted. 
-
-1. Once **Pages** is open, select **Add a new page** (+ icon):
-
-    ![Screenshot showing add new page.](../Media/add-new-page.png)
-
-1. Give your new page a title, such as "People Matter Survey Insights."
-
-1. In the body of Pages, paste the link to your **executive briefing.docx** document created in Task 2.
-
-1. Click below the inserted document and select the Copilot logo next to the text "Use Copilot or just start typing...".
-
-1. Type the following example prompt, or try your own prompt:
+1. Use the prompt below to gather insights from recent interactions with a specific person. You can use the reference feature ("/") to reference the person directly, making it easier to pull relevant information:
 
     ```text
-    Based on the findings [paste link to executive briefing.docx], what are the top three recommendations for enhancing employee engagement, inclusion, and wellbeing in our department?
+    Summarize my recent interactions with [/Name of Person] regarding [specific topic or project]. Organize the summary by key points or actions discussed, and include any follow-up items or outstanding questions that may require attention.
     ```
+    <BR>
+    <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4;">
+    <strong>Note:</strong>
+    Replace [Name of Person] with the person you’re focusing on, and [specific topic or project] with the relevant topic. Use the **/** character (slash) to reference internal contacts for quick access to recent interactions.
+    </div>
 
-1. Use Pages as a collaborative space to work with your colleagues in real-time. Share the page by typing the "@" symbol followed by a colleague’s name.
+1. Review the summary that Copilot provides. Ensure it covers key discussion points, action items, or questions that emerged from your recent interactions.
 
-1. After adding your colleague, click on their name to give them access. They will receive an email notification with a link to collaborate on the page.
+1. Copy the insights for reference as you draft your follow-up email.
 
-    ![Screenshot showing share and notify in pages.](../Media/share.png)
+1. Open **Outlook** and then select **New Mail**.
 
-1. Once your colleague has access, you can work together to refine the recommendations, add supporting data, and organize ideas into actionable steps.
+1. In the email draft, select **Copilot** from the ribbon, then choose **Draft with Copilot**.
 
-### **TIP**:
- When using BizChat with the **work** tab selected, you can send Copilot's response directly to a new page by selecting **Edit in Pages**:
+    ![screenshot showing draft with copilot in Outlook.](../Media/copilot-outlook-desktop.png)
 
-![Screenshot showing edit in pages within bizchat.](../Media/edit-in-pages.png)
 
-You can also share a page with a workspace in Loop by selecting the ellipsis (...) next to any page:
+1. Enter the following prompt to draft a follow-up email based on the insights you gathered in BizChat:
 
-![Screenshot showing add to workspace.](../Media/add-to-workspace.png)
+    ```text
+    Using the insights below, draft a follow-up email to [Name of Person] highlighting the key actions and next steps. Also, ask for a follow-up meeting to discuss further.
 
-**Next**: [Task 4](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Task_4.html)
+    [Paste insights from BizChat here]
+    ```
+1. Review the email draft generated by Copilot. Make any necessary edits to personalize the message or address specific points from your interactions.
+
+1.  Once the email is finalized, save it as a draft or send it directly through Outlook.
+
+[Optional Task: Collaborate using Pages](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Optional_Task_1.html)
 
 [Back to Index](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/)

@@ -54,17 +54,10 @@ Prompt examples (choose one):
 ```text
 Compare the current People Matter Survey results [Paste link to this year's survey results] with last year's results [Paste link to last year's survey results] to identify the top three areas where employee satisfaction has shown the most improvement. 
 ```
+or
 
 ```text
 Identify and summarize the top three areas where employees feel most supported and engaged based on the survey results from [Paste link to People Matter Survey results]. Highlight any unique strengths that the department could build on.
-```
-
-```text
-Using data from the ‘Engagement’ and ‘Inclusion’ sections in [Paste link to People Matter Survey results], create recommendations that amplify existing strengths to further enhance employee engagement and inclusion within the department.
-```
-
-```text
-From the ‘Work-Related Wellbeing’ section in [Paste link to People Matter Survey results], identify the key factors that contribute to a positive work environment. Highlight these areas and suggest ways to sustain or expand on these strengths across teams.
 ```
 
 This approach is more efficient when seeking a broad summary but may not allow the same depth as Chain of Thought prompting.
