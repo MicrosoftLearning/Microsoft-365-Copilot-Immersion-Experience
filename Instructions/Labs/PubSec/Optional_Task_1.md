@@ -1,9 +1,9 @@
 ---
 task:
-    title: 'Task 3: Collaborate using Pages'
+    title: 'Optional Task: Collaborate using Pages'
 ---
 
-# Task 3: Collaborate Using Pages
+# Collaborate Using Pages
 
 In this task, you’ll explore the new **Pages** functionality, a dynamic, shareable space for collaboration and idea organization.
 

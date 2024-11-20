@@ -8,8 +8,8 @@ task:
 
 In this task, you’ll use Business Chat (BizChat) in Teams to gather insights from recent interactions with a specific person on a specific topic. This will help you quickly catch up on recent communications, ensuring you’re well-prepared to follow up. Then, you’ll switch to Outlook to draft a follow-up email using Copilot in Outlook, allowing you to respond promptly and effectively based on your findings.
 
-<div style="background-color: #ffe6e6; padding: 10px; border-left: 5px solid #ff5c5c;">
-    <strong>Important:</strong> (Optional) If you have Teams and Outlook downloaded on your mobile device, you can follow along with the mobile version of this task 
+<div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4;">
+    <strong>Optional:</strong> If you have Teams and Outlook downloaded on your mobile device, you can follow along with the mobile version of this task 
     <a href="https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Task_3_mobile.html" target="_blank">here</a>.
 </div>
 
