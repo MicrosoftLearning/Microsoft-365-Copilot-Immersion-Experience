@@ -85,7 +85,7 @@ Identify and summarize the top three areas where employees feel most supported a
 ```
 
 This approach is more efficient when seeking a broad summary but may not allow the same depth as Chain of Thought prompting.
-
+<BR>
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-bottom: 15px;">
     <strong>Note:</strong> Be sure to copy Copilot's responses into the Word file you created earlier, titled <strong>Copilot Research.docx</strong>, so you can use them in the next task.
 </div>
@@ -103,7 +103,7 @@ You are a senior manager responsible for [employee wellbeing]. Using data from [
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4;"> <strong>Note:</strong> Replace the bracketed text with your specific focus area as needed </div>
 
 This technique allows you to develop recommendations that feel aligned with real-world responsibilities.
-
+<BR>
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-bottom: 15px;">
     <strong>Note:</strong> Be sure to copy Copilot's responses into the Word file you created earlier, titled <strong>Copilot Research.docx</strong>, so you can use them in the next task.
 </div>
@@ -134,7 +134,7 @@ Example sequence for exploring employee engagement challenges:
     ```
 
 This structured approach helps you explore engagement challenges in a way that builds toward actionable strategies and measurement plans.
-
+<BR>
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-bottom: 15px;">
     <strong>Note:</strong> Be sure to copy Copilot's responses into the Word file you created earlier, titled <strong>Copilot Research.docx</strong>, so you can use them in the next task.
 </div>
