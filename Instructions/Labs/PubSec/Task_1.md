@@ -9,7 +9,11 @@ In this task, you'll use Microsoft 365 Business Chat (BizChat) to uncover action
 
 ## Prepare your Document
 
-<div style="background-color: #ffe6e6; padding: 10px; border-left: 5px solid #ff5c5c;"> <strong>Important:</strong> Download the Word version of the 2023 survey results for your respective departments <a href="https://vpsc.vic.gov.au/workforce-data-state-of-the-public-sector/data-sets-and-results/people-matter-survey-2023-results-by-organisation/" target="_blank">here</a> or use a more recent version if available. </div>
+<div style="background-color: #ffe6e6; padding: 10px; border-left: 5px solid #ff5c5c; margin-top: 15px;"> 
+    <strong>Important:</strong> Download the Word version of the 2023 survey results for your respective departments 
+    <a href="https://vpsc.vic.gov.au/workforce-data-state-of-the-public-sector/data-sets-and-results/people-matter-survey-2023-results-by-organisation/" target="_blank">here</a> 
+    or use a more recent version if available.
+</div>
 
 1. In **Word**, open the People Matter Survey document you’d like to use for this task.
 
@@ -82,6 +86,7 @@ or
 ```text
 Identify and summarize the top three areas where employees feel most supported and engaged based on the survey results from [Paste link to People Matter Survey results]. Highlight any unique strengths that the department could build on.
 ```
+
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-top: 15px; margin-bottom: 15px;">
     <strong>Note:</strong> Be sure to copy Copilot's responses into the Word file you created earlier, titled <strong>Copilot Research.docx</strong>, so you can use them in the next task.
 </div>
@@ -96,9 +101,13 @@ Example prompt:
 You are a senior manager responsible for [employee wellbeing]. Using data from [paste link to People Matter Survey], identify key strengths within your focus area where the department’s scores are above the comparator group. Then, propose specific actions or initiatives that could help reinforce these positive outcomes and support the department’s values.
 ```
 
-<div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-bottom: 15px;"> <strong>Tip:</strong> Replace bracketed text with your specific focus area for personalized recommendations. </div>
+<div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-top: 15px; margin-bottom: 15px;"> 
+    <strong>Tip:</strong> Replace bracketed text with your specific focus area for personalized recommendations.
+</div>
+
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-top: 15px; margin-bottom: 15px;">
-    <strong>Note:</strong> Be sure to copy Copilot's responses into the Word file you created earlier, titled <strong>Copilot Research.docx</strong>, so you can use them in the next task.
+    <strong>Note:</strong> Be sure to copy Copilot's responses into the Word file you created earlier, titled 
+    <strong>Copilot Research.docx</strong>, so you can use them in the next task.
 </div>
 
 ### Chain of Thought Prompting
