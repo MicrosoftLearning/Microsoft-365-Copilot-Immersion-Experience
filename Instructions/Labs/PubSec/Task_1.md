@@ -86,7 +86,6 @@ Identify and summarize the top three areas where employees feel most supported a
 
 This approach is more efficient when seeking a broad summary but may not allow the same depth as Chain of Thought prompting.
 <strong>Note:</strong> Be sure to copy Copilot's responses into the Word file you created earlier, titled **Copilot Research.docx**, so you can use them in the next task.
-
 <br>
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-top: 15px; margin-bottom: 15px;">
     <strong>Note:</strong> Be sure to copy Copilot's responses into the Word file you created earlier, titled <strong>Copilot Research.docx</strong>, so you can use them in the next task.
