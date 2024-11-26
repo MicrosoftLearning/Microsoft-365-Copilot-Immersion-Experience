@@ -95,6 +95,7 @@ Example prompt:
 ```text
 You are a senior manager responsible for [employee wellbeing]. Using data from [paste link to People Matter Survey], identify key strengths within your focus area where the department’s scores are above the comparator group. Then, propose specific actions or initiatives that could help reinforce these positive outcomes and support the department’s values.
 ```
+
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-bottom: 15px;"> <strong>Tip:</strong> Replace bracketed text with your specific focus area for personalized recommendations. </div>
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-top: 15px; margin-bottom: 15px;">
     <strong>Note:</strong> Be sure to copy Copilot's responses into the Word file you created earlier, titled <strong>Copilot Research.docx</strong>, so you can use them in the next task.
@@ -124,7 +125,7 @@ Example Steps:
     ```text
     Finally, given these strategies, how could the department track continued success in engagement? Identify specific metrics or indicators that would demonstrate progress and recognize ongoing positive outcomes based on future survey results.
     ```
-<br>
+
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-top: 15px; margin-bottom: 15px;">
     <strong>Note:</strong> Be sure to copy Copilot's responses into the Word file you created earlier, titled <strong>Copilot Research.docx</strong>, so you can use them in the next task.
 </div>
