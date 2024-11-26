@@ -85,7 +85,14 @@ Identify and summarize the top three areas where employees feel most supported a
 ```
 
 This approach is more efficient when seeking a broad summary but may not allow the same depth as Chain of Thought prompting.
-<br> <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-top: 15px; margin-bottom: 15px;"> <strong>Note:</strong> Be sure to copy Copilot's responses into the Word file you created earlier, titled <strong>Copilot Research.docx</strong>, so you can use them in the next task. </div>
+<strong>Note:</strong> Be sure to copy Copilot's responses into the Word file you created earlier, titled **Copilot Research.docx**, so you can use them in the next task.
+
+<br>
+<div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-top: 15px; margin-bottom: 15px;">
+    <strong>Note:</strong> Be sure to copy Copilot's responses into the Word file you created earlier, titled <strong>Copilot Research.docx</strong>, so you can use them in the next task.
+</div>
+
+
 
 ## Role Prompting (Persona-Based Prompting)
 
@@ -98,7 +105,11 @@ You are a senior manager responsible for [employee wellbeing]. Using data from [
 ```
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-top: 15px; margin-bottom: 15px;"> <strong>Note:</strong> Replace the bracketed text with your specific focus area as needed. </div>
 This technique allows you to develop recommendations that feel aligned with real-world responsibilities.
-<br> <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-top: 15px; margin-bottom: 15px;"> <strong>Note:</strong> Be sure to copy Copilot's responses into the Word file you created earlier, titled <strong>Copilot Research.docx</strong>, so you can use them in the next task. </div>
+<br>
+<div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-top: 15px; margin-bottom: 15px;">
+    <strong>Note:</strong> Be sure to copy Copilot's responses into the Word file you created earlier, titled <strong>Copilot Research.docx</strong>, so you can use them in the next task.
+</div>
+
 
 ## Chain of Thought Prompting
 
@@ -126,7 +137,11 @@ Example sequence for exploring employee engagement challenges:
     ```
 
 This structured approach helps you explore engagement challenges in a way that builds toward actionable strategies and measurement plans.
-<br> <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-top: 15px; margin-bottom: 15px;"> <strong>Note:</strong> Be sure to copy Copilot's responses into the Word file you created earlier, titled <strong>Copilot Research.docx</strong>, so you can use them in the next task. </div>
+<br>
+<div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-top: 15px; margin-bottom: 15px;">
+    <strong>Note:</strong> Be sure to copy Copilot's responses into the Word file you created earlier, titled <strong>Copilot Research.docx</strong>, so you can use them in the next task.
+</div>
+
 
 **Next**: [Task 2](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Task_2.html)
 
