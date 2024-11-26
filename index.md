@@ -8,7 +8,7 @@ layout: home
 
 ## Growing your AI skills
 
-In this interactive experience, you'll get inspired and use Microsoft 365 Copilot to streamline tasks such as research, drafting documents, summarizing emails, and more.
+In this interactive experience, you'll get inspired and use Microsoft 365 Copilot to streamline tasks such as research, drafting documents, drafting emails, and more.
 
 - You will have about 25 minutes to complete all the tasks.
 - In a Microsoft Edge browser, enter (<a href="https://word.new" target="_blank">word.new</a>), then save it to your OneDrive account as '**Copilot Research.docx**'.
