@@ -17,6 +17,31 @@ In this task, you'll use Microsoft 365 Business Chat (BizChat) to uncover action
 1. Copy the URL of the document by selecting the **Share** button in the upper-right corner above the ribbon and selecting **Copy Link** from the drop-down menu that appears.
 
     ![Screenshot showing the Share menu and the Copy Link option highlighted.](../Media/share-menu-with-copy-link.png)
+    
+<div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-bottom: 15px;">
+    <strong>Note:</strong> Copy the Word document URL to Notepad or store it in the input box below.
+</div>
+<label for="inputBox" style="font-weight: bold;">Enter your URL here:</label>
+<input type="text" id="inputBox" placeholder="Type something..." style="margin-left: 10px; width: 300px;" />
+<button onclick="copyText()" style="margin-left: 10px; padding: 5px 10px; background-color: #0078D4; color: white; border: none; border-radius: 4px; cursor: pointer;">
+    Copy
+</button>
+<p id="statusMessage" style="margin-top: 10px; color: #0078D4;"></p>
+
+<script>
+    function copyText() {
+        const textBox = document.getElementById("inputBox");
+        textBox.select();
+        textBox.setSelectionRange(0, 99999); // For mobile devices
+        navigator.clipboard.writeText(textBox.value)
+            .then(() => {
+                document.getElementById("statusMessage").innerText = "Text copied to clipboard!";
+            })
+            .catch(err => {
+                document.getElementById("statusMessage").innerText = "Failed to copy text.";
+            });
+    }
+</script>
 
 ### Steps:
 
@@ -44,7 +69,6 @@ Each prompting technique below offers unique benefits depending on the depth of 
 - **Role Prompting** adds a personal and professional perspective, helping you analyze data from a specific role's viewpoint.
 - **Chain of Thought Prompting** enables a deeper exploration of complex issues through a logical series of connected prompts.
 
-
 ## Single-Shot Prompting
 
 Single-shot prompting uses a single, well-crafted prompt to get a comprehensive response from the AI, ideal when you need a quick summary or broad perspective.
@@ -62,6 +86,10 @@ Identify and summarize the top three areas where employees feel most supported a
 
 This approach is more efficient when seeking a broad summary but may not allow the same depth as Chain of Thought prompting.
 
+<div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-bottom: 15px;">
+    <strong>Note:</strong> Be sure to copy Copilot's responses into the Word file you created earlier, titled <strong>Copilot Research.docx</strong>, so you can use them in the next task.
+</div>
+
 ## Role Prompting (Persona-Based Prompting)
 
 Role prompting involves instructing the AI to assume a specific role for tailored insights. Here, participants can take on the role of a senior manager responsible for a particular focus area, such as employee wellbeing, team engagement, or inclusion. This adds a personal perspective, aligning insights with specific responsibilities.
@@ -75,6 +103,10 @@ You are a senior manager responsible for [employee wellbeing]. Using data from [
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4;"> <strong>Note:</strong> Replace the bracketed text with your specific focus area as needed </div>
 
 This technique allows you to develop recommendations that feel aligned with real-world responsibilities.
+
+<div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-bottom: 15px;">
+    <strong>Note:</strong> Be sure to copy Copilot's responses into the Word file you created earlier, titled <strong>Copilot Research.docx</strong>, so you can use them in the next task.
+</div>
 
 ## Chain of Thought Prompting
 
@@ -102,6 +134,10 @@ Example sequence for exploring employee engagement challenges:
     ```
 
 This structured approach helps you explore engagement challenges in a way that builds toward actionable strategies and measurement plans.
+
+<div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-bottom: 15px;">
+    <strong>Note:</strong> Be sure to copy Copilot's responses into the Word file you created earlier, titled <strong>Copilot Research.docx</strong>, so you can use them in the next task.
+</div>
 
 **Next**: [Task 2](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Task_2.html)
 
