@@ -13,7 +13,7 @@ In this task, you’ll use Business Chat (BizChat) in Teams to gather insights f
     <a href="https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Task_3_mobile.html" target="_blank">here</a>.
 </div>
 
-### Steps:
+## Steps
 
 1. In **Microsoft Teams**, select **Copilot** at the top of the **Chat** pane.  This will open a **Copilot** window.
     

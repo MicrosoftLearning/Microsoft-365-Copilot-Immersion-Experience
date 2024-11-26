@@ -7,7 +7,7 @@ task:
 
 In this task, you’ll explore the new **Pages** functionality, a dynamic, shareable space for collaboration and idea organization.
 
-### Steps:
+## Steps
 
 1. To launch Pages, open a new Edge browser tab and navigate to <a href="https://m365.cloud.microsoft/pages/" target="_blank">m365.cloud.microsoft/pages</a>.
 

@@ -7,7 +7,7 @@ task:
 
 Based on your research using BizChat, use Copilot in Word to draft a briefing of key findings from the People Matter Survey to present at an upcoming employee town hall. This summary should be engaging and easy to understand, highlighting positive trends, areas of growth, and actionable steps the department is taking.
 
-### Steps:
+## Steps
 
 1. Open the **copilot research.docx** document that you saved to your OneDrive account previously in Task 1. Copy the URL of the document by selecting the Share button in the upper-right corner, above the ribbon, and selecting **Copy Link** from the drop-down menu that appears.
 

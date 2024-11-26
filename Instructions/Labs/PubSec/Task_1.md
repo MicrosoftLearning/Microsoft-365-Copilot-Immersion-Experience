@@ -46,7 +46,7 @@ In this task, you'll use Microsoft 365 Business Chat (BizChat) to uncover action
     }
 </script>
 
-## Steps:
+## Steps
 
 1. Launch **BizChat** by opening a new Edge browser tab and navigate to <a href="https://m365.cloud.microsoft/chat" target="_blank">m365.cloud.microsoft/chat</a>.
 

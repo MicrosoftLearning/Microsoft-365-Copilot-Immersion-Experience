@@ -3,7 +3,7 @@ task:
     title: 'Task 3 (Desktop): Review communications and send a follow-up email'
 ---
 
-### Steps: 
+## Steps 
 
 1. In **Microsoft Teams** on your mobile device, select **Copilot** at the top of the **Chat** pane.  This will open a **Copilot** window.
     
