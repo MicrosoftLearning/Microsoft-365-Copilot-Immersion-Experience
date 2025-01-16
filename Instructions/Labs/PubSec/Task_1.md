@@ -1,11 +1,11 @@
 ---
 task:
-    title: 'Task 1: Streamline Data Analysis & Insights with Microsoft 365 Business Chat'
+    title: 'Task 1: Streamline Data Analysis & Insights with Microsoft 365 Copilot Chat'
 ---
 
-# Task 1: Streamline Data Analysis & Insights with Microsoft 365 Business Chat
+# Task 1: Streamline Data Analysis & Insights with Microsoft 365 Copilot Chat
 
-In this task, you'll use Microsoft 365 Business Chat (BizChat) to uncover actionable insights from your People Matter Survey results. Leveraging Copilot, you’ll identify key departmental trends that can guide informed decision-making and strategic planning.
+In this task, you'll use Microsoft 365 Copilot Chat (Copilot Chat) to uncover actionable insights from your People Matter Survey results. Leveraging Copilot, you’ll identify key departmental trends that can guide informed decision-making and strategic planning.
 
 ## Prepare your Document
 
@@ -48,15 +48,15 @@ In this task, you'll use Microsoft 365 Business Chat (BizChat) to uncover action
 
 ## Steps
 
-1. Launch **BizChat** by opening a new Edge browser tab and navigate to <a href="https://m365.cloud.microsoft/chat" target="_blank">m365.cloud.microsoft/chat</a>.
+1. Launch **Copilot Chat** by opening a new Edge browser tab and navigate to <a href="https://m365copilot.com" target="_blank">m365copilot.com</a>.
 
 1. Log into your work account if prompted.
 
-1. With **BizChat** open, ensure that the **Work tab** is selected:
+1. With **Copilot Chat** open, ensure that the **Work tab** is selected:
 
-    ![Screenshot showing web tab in BizChat.](../Media/work-tab.png)
+    ![Screenshot showing web tab in Copilot Chat.](../Media/work-tab.png)
 
-1. Explore one or more of the prompting techniques below to help guide your research in Business Chat:
+1. Explore one or more of the prompting techniques below to help guide your research in Microsoft 365 Copilot Chat:
 
     - Single-Shot Prompting
     - Role Prompting (Persona-based Prompting)

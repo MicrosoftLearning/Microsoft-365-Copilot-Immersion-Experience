@@ -5,7 +5,7 @@ task:
 
 # Task 2: Draft a document using Microsoft 365 Copilot in Word
 
-Based on your research using BizChat, use Copilot in Word to draft a briefing of key findings from the People Matter Survey to present at an upcoming employee town hall. This summary should be engaging and easy to understand, highlighting positive trends, areas of growth, and actionable steps the department is taking.
+Based on your research using Copilot Chat, use Copilot in Word to draft a briefing of key findings from the People Matter Survey to present at an upcoming employee town hall. This summary should be engaging and easy to understand, highlighting positive trends, areas of growth, and actionable steps the department is taking.
 
 ## Steps
 
