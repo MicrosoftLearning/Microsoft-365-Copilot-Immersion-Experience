@@ -1,6 +1,12 @@
 ---
-task:
-    title: 'Task 3 (Desktop): Review communications and send a follow-up email'
+lab:
+  title: Untitled exercise
+  description: '[Optional Task: Collaborate using Pages](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Optional_Task_1.html)'
+  duration: 30 minutes
+  level: 100
+  islab: true
+  primarytopics:
+  - GitHub
 ---
 
 ## Steps 
