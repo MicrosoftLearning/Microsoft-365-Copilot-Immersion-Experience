@@ -1,6 +1,19 @@
 ---
-task:
-    title: 'Task 3: Review communications and send a follow-up email'
+lab:
+  title: 'Task 3: Review communications and send a follow-up email'
+  description: In this task, you’ll use Microsoft 365 Copilot Chat (Copilot Chat)
+    in Teams to gather insights from recent interactions with a specific person on
+    a specific topic. This will help you quickly catch up on recent communications,
+    ensuring you’re well-prepared to follow up. Then, you’ll switch to Outlook to
+    draft a follow-up email using Copilot in Outlook, allowing you to respond promptly
+    and effectively based on your findings.
+  duration: 30 minutes
+  level: 100
+  islab: true
+  primarytopics:
+  - Microsoft 365
+  - Microsoft 365 Copilot
+  - Microsoft 365 Copilot Chat
 ---
 
 # Task 3: Review communications and send a follow-up email
