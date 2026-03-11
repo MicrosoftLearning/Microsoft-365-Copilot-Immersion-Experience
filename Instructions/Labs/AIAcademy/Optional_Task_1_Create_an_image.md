@@ -1,6 +1,19 @@
 ---
-task:
-    title: 'Optional Task 1: Generate Marketing Ideas'
+lab:
+  title: 'Optional Task 1: Generate Marketing Ideas'
+  description: 'Use Microsoft 365 Copilot to quickly generate a range of creative
+    outputs. This task showcases the practical application of Copilot''s features,
+    emphasizing how you can extend your work in innovative ways.. <BR> <BR> <div style="background-color:
+    #e0f7ff; padding: 10px; border-left: 5px solid #0078D4;"> <strong>Note:</strong>
+    While we provide sample prompts, feel free to personalize them in your own style.
+    Be creative and experiment. If Copilot doesn''t give the desired output, refine
+    your prompt and try again. Enjoy the process! </div>'
+  duration: 18 minutes
+  level: 100
+  islab: true
+  primarytopics:
+  - Microsoft 365
+  - Microsoft 365 Copilot
 ---
 
 # Optional Task 1: Generate Marketing Ideas
