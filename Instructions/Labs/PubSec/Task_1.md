@@ -1,6 +1,17 @@
 ---
-task:
-    title: 'Task 1: Streamline Data Analysis & Insights with Microsoft 365 Copilot Chat'
+lab:
+  title: 'Task 1: Streamline Data Analysis & Insights with Microsoft 365 Copilot Chat'
+  description: In this task, you'll use Microsoft 365 Copilot Chat (Copilot Chat)
+    to uncover actionable insights from your People Matter Survey results. Leveraging
+    Copilot, you’ll identify key departmental trends that can guide informed decision-making
+    and strategic planning.
+  duration: 38 minutes
+  level: 200
+  islab: true
+  primarytopics:
+  - Microsoft 365
+  - Microsoft 365 Copilot
+  - Microsoft 365 Copilot Chat
 ---
 
 # Task 1: Streamline Data Analysis & Insights with Microsoft 365 Copilot Chat
