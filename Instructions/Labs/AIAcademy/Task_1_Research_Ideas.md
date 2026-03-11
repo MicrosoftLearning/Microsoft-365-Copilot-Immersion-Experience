@@ -1,6 +1,25 @@
 ---
-task:
-    title: 'Task 1: Research Campaign Ideas'
+lab:
+  title: 'Task 1: Research Campaign Ideas'
+  description: 'Using Business Chat (BizChat) in the Microsoft 365 App, research Giving
+    Campaign ideas and philanthropic initiatives that align with corporate social
+    responsibility goals. Focus on identifying successful strategies and emerging
+    trends while aiming to brainstorm and develop at least one new Giving Campaign
+    idea based on your findings. The goal of this task is to generate an idea to build
+    on in the next steps. <BR> <BR> <div style="background-color: #e0f7ff; padding:
+    10px; border-left: 5px solid #0078D4;"> <strong>Note:</strong> While we provide
+    sample prompts, feel free to personalize them in your own style. Be creative and
+    experiment. If Copilot doesn''t give the desired output, refine your prompt and
+    try again. Enjoy the process! </div> <BR> <div style="background-color: #ffe6e6;
+    padding: 10px; border-left: 5px solid #ffe6e6;"> <strong>Important:</strong> If
+    you have not already created and saved the document <strong>Copilot Research.docx</strong>
+    to your OneDrive, please do so now by navigating to <a href="https://word.new"
+    target="_blank">word.new</a>. </div>'
+  duration: 28 minutes
+  level: 100
+  islab: true
+  primarytopics:
+  - Microsoft 365
 ---
 
 # Task 1: Research Campaign Ideas
