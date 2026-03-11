@@ -1,6 +1,17 @@
 ---
-task:
-    title: 'Task 3: Create a Campaign Pitch Presentation'
+lab:
+  title: 'Task 3: Create a Campaign Pitch Presentation'
+  description: 'Using the Word document created in Task 2, leverage Copilot in PowerPoint
+    to develop a pitch deck for your campaign idea. The presentation should be designed
+    to communicate the vision, goals, and benefits of the proposed Giving Campaign
+    to potential stakeholders or sponsors. <BR> <BR> <div style="background-color:
+    #e0f7ff; padding: 10px; border-left: 5px solid #0078D4;"> <strong>Note:</strong>
+    While we provide sample prompts, feel free to personalize them in your own style.
+    Be creative and experiment. If Copilot doesn''t give the desired output, refine
+    your prompt and try again. Enjoy the process! </div>'
+  duration: 28 minutes
+  level: 100
+  islab: true
 ---
 
 # Task 3: Create a Campaign Pitch Presentation
