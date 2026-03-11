@@ -1,6 +1,15 @@
 ---
-task:
-    title: 'Index 1'
+lab:
+  title: Untitled exercise
+  description: In this interactive experience, you'll get inspired and design a new
+    Microsoft Giving Campaign using Microsoft 365 Copilot to streamline tasks such
+    as research, proposal drafting, presentation creation, and more.
+  duration: 30 minutes
+  level: 100
+  islab: true
+  primarytopics:
+  - Microsoft 365
+  - Microsoft 365 Copilot
 ---
 
 ## Growing your AI skills
