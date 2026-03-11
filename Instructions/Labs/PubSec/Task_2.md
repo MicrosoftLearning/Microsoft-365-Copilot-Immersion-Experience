@@ -1,6 +1,16 @@
 ---
-task:
-    title: 'Task 2: Draft a document using Microsoft 365 Copilot in Word'
+lab:
+  title: 'Task 2: Draft a document using Microsoft 365 Copilot in Word'
+  description: Based on your research using Copilot Chat, use Copilot in Word to draft
+    a briefing of key findings from the People Matter Survey to present at an upcoming
+    employee town hall. This summary should be engaging and easy to understand, highlighting
+    positive trends, areas of growth, and actionable steps the department is taking.
+  duration: 30 minutes
+  level: 100
+  islab: true
+  primarytopics:
+  - Microsoft 365
+  - Microsoft 365 Copilot
 ---
 
 # Task 2: Draft a document using Microsoft 365 Copilot in Word
