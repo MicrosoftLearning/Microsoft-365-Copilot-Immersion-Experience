@@ -1,6 +1,11 @@
 ---
-task:
-    title: 'Task 4: Collaborate with Pages'
+lab:
+  title: 'Task 4: Collaborate Using Pages'
+  description: In this task, you’ll explore the new **Pages** functionality, a dynamic,
+    shareable space for collaboration and idea organization.
+  duration: 28 minutes
+  level: 100
+  islab: true
 ---
 
 # Task 4: Collaborate Using Pages
