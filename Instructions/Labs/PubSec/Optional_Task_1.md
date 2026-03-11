@@ -1,6 +1,11 @@
 ---
-task:
-    title: 'Optional Task: Collaborate using Pages'
+lab:
+  title: Collaborate Using Pages
+  description: In this task, you’ll explore the new **Pages** functionality, a dynamic,
+    shareable space for collaboration and idea organization.
+  duration: 36 minutes
+  level: 100
+  islab: true
 ---
 
 # Collaborate Using Pages
